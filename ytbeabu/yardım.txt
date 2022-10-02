@@ -1,0 +1,3 @@
+2 klasördeki whackbot ları calıstırın
+
+eğer sekme kapanmıyosa yer (1) den kordinatlarını düzeltin
